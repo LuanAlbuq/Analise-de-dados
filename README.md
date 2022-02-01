@@ -1,6 +1,6 @@
 # Analise-de-dados
 
-Projeto de automação web construído através da linguagem Python em Jupyter notebook.
+Projeto de analise de dados construído através da linguagem Python em Jupyter notebook.
 Utilizando as bibliotecas: pandas e plotly.
 
 Nessa análise tive como objetivo uma análise
